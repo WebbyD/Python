@@ -1,2 +1,2 @@
 # Python
-Files written in Python. Enjoy!!!
+Applications coded in Python. Enjoy!!!
